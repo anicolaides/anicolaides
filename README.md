@@ -28,7 +28,7 @@ I'm Alexandros Nicolaides, a software engineer/tech enthusiast with a passion fo
 - Grew up inspired by tech visionaries like Steve Jobs, Steve Wozniak, Linus Torvalds and others who shaped the Silicon Valley landscape.
 </details>
 
-### Contact
+### Get in touch
 
 Aside from my technical skills, I am also a strong communicator and a team player who is always eager to collaborate with others and bring new ideas to the table. 
 
