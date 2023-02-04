@@ -16,7 +16,8 @@ I'm Alexandros Nicolaides, a software engineer/tech enthusiast with a passion fo
 - A lifelong learner, always striving to be a work in progress
 
 ### Fun facts
-
+<details>
+  
 - My passion for technology was sparked at a young age of 7 when my brother introduced me to the process of transferring data through infrared rays between Nokia devices. I was fascinated and spent countless hours tinkering with the process, eagerly observing the loading bar to see if the data would successfully reach the other end. This experience ignited my passion for technology and has driven me to become a self-taught computer enthusiast honing my skills through self-study and experimentation.
 - I remember myself eagerly waiting for the primary school bell to ring, eager to go home and play with my computer.
 - Started my website journey at 11, using Freewebs, then delved into PHP by setting up a forum and experimenting with editing files to observe their impact.
@@ -25,11 +26,13 @@ I'm Alexandros Nicolaides, a software engineer/tech enthusiast with a passion fo
 - Growing up, I was surrounded by doctors due to my father's occupation and they often encouraged me to follow in their footsteps. However, my passion for computers and technology was too strong to ignore.
 - I have a passion for genomics, viewing DNA as the ultimate information system of our world.
 - Grew up inspired by tech visionaries like Steve Jobs, Steve Wozniak, Linus Torvalds and others who shaped the Silicon Valley landscape.
-
+</details>
 
 ### Contact
 
-Aside from my technical skills, I am also a strong communicator and a team player who is always eager to collaborate with others and bring new ideas to the table. If you'd like to reach out, you can email me at:
+Aside from my technical skills, I am also a strong communicator and a team player who is always eager to collaborate with others and bring new ideas to the table. 
+
+If you'd like to reach out, you can reach me through:
 
 - git[at]alexandros[dot]dev
 - [LinkedIn](https://www.linkedin.com/in/alexandros-nicolaides/)
