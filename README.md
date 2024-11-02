@@ -65,12 +65,6 @@ I'm a passionate software engineer and tech enthusiast, currently leading [Kodeo
   - Focused on software engineering
   - Committed to self-directed learning
 
-### Current Interests 🧬
-- Genomics and Computational Biology
-  - Studying DNA as an information system
-  - Exploring bioinformatics
-  - Investigating intersection of technology and biology
-
 ### Inspirations 💭
 Shaped by tech visionaries including:
 - Steve Jobs: Innovation and design thinking
